@@ -1,7 +1,10 @@
+Flask
+gunicorn
 numpy
 pandas
 scikit-learn
-tensorflow
+tensorflow-cpu
 xgboost
 matplotlib
 seaborn
+opencv-python-headless
